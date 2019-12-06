@@ -1,6 +1,104 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.image-credits {
+    position: absolute;
+    border-radius: 25px;
+    left: 10px;
+    top: 10px;
+    color: #000000;
+    background:rgba(206, 206, 206, 0.58);
+    padding: 5px;
+    font-weight: 300;
+}
+
+.background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: url(/cdn/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(1.1);
+    filter: blur(10px);
+}
+
+.main_name h1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.main_username {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 30;
+}
+
+.main_links {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 75px;
+    background:rgba(206, 206, 206, 0.58);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .container {
-    width: 800px;
-    margin: 0 auto;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.item:hover {
+    cursor: pointer;
+}
+
+.item-emoji {
+    width: 32px;
+    height: 32px;
+    display: block;
+    margin-bottom: 6px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.item-emoji:hover {
+    cursor: pointer;
+}
+
+.item img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
 }
