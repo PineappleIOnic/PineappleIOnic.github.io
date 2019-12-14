@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ionicisere
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ionicisere.co.uk
+  * I am ionicisere (https://keybase.io/ionicisere) on keybase.
+  * I have a public key ASAJ19l4zMXqn7wi97bjbVn7gjcAJN4lBlENZ4lur41lOwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208e45991a73935efaf8a0b4ee800e5d55d321b0e6438aa60abe9531281daf387f0a",
+      "host": "keybase.io",
+      "kid": "012009d7d978ccc5ea9fbc22f7b6e36d59fb82370024de2506510d67896eaf8d653b0a",
+      "uid": "7c5c3b2e1942c3dc0b3a001348cda019",
+      "username": "ionicisere"
+    },
+    "merkle_root": {
+      "ctime": 1576336609,
+      "hash": "fe28cf75a0f13a9e9933aff1ae2d12d66b6dc4ba9e854e2dd193ea61b36750dcadb68710e41442fa5ba1d11b3f30ca6ee9371dd1bf05a63ccadacd38bfc0683c",
+      "hash_meta": "261b6855de588cfdef985483dbe7e977863827dac65d5f006a2e2589c86b9f3a",
+      "seqno": 13531368
+    },
+    "service": {
+      "entropy": "l53NqFSC4K2Oy8zbf+Ln7kB8",
+      "hostname": "ionicisere.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.0"
+  },
+  "ctime": 1576336629,
+  "expire_in": 504576000,
+  "prev": "8f945141ad9d7d6cced78543cf2228194a41177bc51eb78f31b195903509764d",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCdfZeMzF6p+8Ive2421Z+4I3ACTeJQZRDWeJbq+NZTsKp3BheWxvYWTESpcCGsQgj5RRQa2dfWzO14VDzyIoGUpBF3vFHrePMbGVkDUJdk3EIJEeZBEppq4ytvNKFF63/DRvI9VJ5k9zoXM/KxNMDMHVAgHCo3NpZ8RAJd92FfFZBpUpihOTU3ot51Bx0FpktmWdDqCEllF7DxpgKKinZZzoPKf3/eWSRSOcLD7FuADpr7p9EWKkMW19CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMiTMKkOKQXUqc6JmLNYY8ecrEh1rXmjRjecZAQAeaRQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ionicisere
+
+==================================================================
